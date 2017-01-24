@@ -44,4 +44,4 @@ $ vi src/main/resources/application.properties
 $ gradle build
 
 # Run the application
-$ java -jar build/libs/springboot-0.0.1-SNAPSHOT.jar
+$ java -jar build/libs/springboot-0.0.1.jar
