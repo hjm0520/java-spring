@@ -1,7 +1,7 @@
 # java-spring
 Spring Java Framework
 
-# Java 1.8 installation
+# Java 1.8 installation on Ubuntu
 $ sudo apt-add-repository ppa:webupd8team/java
 $ sudo apt-get update
 $ sudo apt-get install oracle-java8-installer
